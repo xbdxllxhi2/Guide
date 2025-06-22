@@ -41,7 +41,7 @@
 
 <settingsSecurity>
     <master>{YOUR_ENCRYPTED_MASTER_PASSWORD}</master>
-    /settingsSecurity>
+ </settingsSecurity>
  ```
 
 **Important:** This `settings-security.xml` file is critical. Protect it as you would any other sensitive file.
